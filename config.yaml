@@ -1,0 +1,6 @@
+path: C:\Users\Ujjwal\OneDrive\Desktop\Home Dataset\red
+train: images\
+val: images\
+
+names:
+  0: triangle
